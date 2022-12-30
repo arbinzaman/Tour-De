@@ -10,7 +10,7 @@ This is Travel Agency Site for our desire trevel around the country
     
 </p>
 
-[![Site preview](social-image.png)](https://dancing-narwhal-2e7778.netlify.app/)
+[![Site preview](/social-image.png.png)](https://dancing-narwhal-2e7778.netlify.app/)
 
 ## Technology Stack 🛠️ -HTML , CSS , Tailwind , MAMBAUI
 # Live Site Link - https://dancing-narwhal-2e7778.netlify.app/
